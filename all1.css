@@ -1,0 +1,143 @@
+
+#home{
+width:100%;
+height:auto;
+min-height:980px;
+}
+
+.aboutbox{-webkit-border-top-left-radius:100px;    box-shadow: 10px 10px 5px #888;width:80%;height:500px;margin-left:10%;background: url('blur.jpg') no-repeat center center fixed;background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+background-attachment:fixed;}
+
+#about{
+
+ background-color:#f4f4f4;	
+	
+	
+min-height:800px;
+overflow:hidden;margin-top:-20px;
+}
+#about p{color:blue;font-size:15.5px}
+
+#about h1, #resume h1{font-family: Papyrus, fantasy;font-size:6vmin;text-align:center;
+padding-top:90px;
+
+
+}
+
+.self img{
+width:60%;
+height:auto;
+padding-bottom:25px;
+ width: 400px;
+ height: 800px;
+ -moz-border-radius: 200px / 400px;
+ -webkit-border-radius:  200px / 400px;
+ border-radius:  200px / 400px;padding:15px;
+}
+
+
+
+#portfolio{
+margin-top:-20px;
+min-height:980px;
+width:100%;
+background:
+  black;
+-webkit-border-bottom-left-radius:2px;    
+-webkit-border-bottom-right-radius:2px;
+-webkit-border-top-left-radius:2px;    
+-webkit-border-top-right-radius:2px;
+}
+
+
+
+#portfolio h1,#contact h1{font-family: Papyrus, fantasy;font-size:6vmin;text-align:center;
+padding-top:115px;color: white;padding-bottom:10px;
+}
+
+
+#resume{
+
+min-height:980px;background:#f4f4f4;margin-top:-15px;
+
+}
+
+#contact{
+
+margin-top:-20px;
+min-height:900px;
+width:100%;
+background:
+  black;
+-webkit-border-bottom-left-radius:2px;    
+-webkit-border-bottom-right-radius:2px;
+-webkit-border-top-left-radius:2px;    
+-webkit-border-top-right-radius:2px;
+
+}
+
+
+.fancyunderline {
+  border-width: 0 0 5px;
+  border-style: solid;
+  border-length:50px;
+border-image: url(border.png) 27  stretch;width:50;
+}
+
+
+
+ .navbar-default {
+  
+    background-color: #f2f2f2;height:77px;border-bottom-color:#d9d9d9;
+}
+.navbar-default .navbar-brand {
+    color: #464646;font-family: "Helvetica";font-size:26px;padding-top:25px;padding-left:-10px;margin-left:-5px;   
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color:#565656;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: grey;font-size:11.4px;padding-top:30px;font-family: 'Julius Sans One', sans-serif;letter-spacing: 0.5px;
+	background-color:#f2f2f2;padding-bottom:25px;position:fixed-top;padding-left:-8px;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color:#ff751a;padding-bottom:25px;background-color:#f2f2f2;
+}
+.navbar-deader{
+padding-top:20px;
+}
+
+   
+.redText{ 
+color:red;
+
+}
+.blackText{
+color:black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

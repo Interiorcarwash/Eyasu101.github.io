@@ -1,0 +1,58 @@
+#resume .firstslide{
+	
+	background-color:white;
+	column-count:2;
+	column-gap:20px;
+	column-position:relative;
+	column-rule-width:1px;
+	column-rule-style:solid;
+	column-rule-color:blue;
+	padding-bottom:50px;
+	padding-top:40px;
+	margin-left:10px;
+	margin-right:10px;
+	
+}
+
+#resume h3{
+	
+	color:red;font-size:18px;
+	
+}
+
+#resume h4{
+	
+	font-weight:600;
+}
+
+#resume .second h3{
+	
+	color:red;font-size:18px;
+	
+}
+
+#resume .second h4{
+	
+	font-weight:600;color:white;
+}
+
+#resume .second ul{
+	
+	color:white;
+}
+
+
+#resume .secondslide{
+	
+	background-color:black;
+	column-count:2;
+	column-gap:20px;
+	column-position:relative;
+	column-rule-width:1px;
+	column-rule-style:solid;
+	column-rule-color:blue;
+	padding-bottom:50px;
+	padding-top:40px;
+	margin-left:10px;
+	margin-right:10px;	
+}
