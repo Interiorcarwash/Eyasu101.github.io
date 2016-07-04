@@ -7,6 +7,7 @@
 	font: bold 16px sans-serif;
 	padding: 30px 50px;
 	margin-top: -9px;
+	border-top:1px solid white;
 }
 
 .footer-distributed .footer-left,

@@ -13,7 +13,7 @@ background-attachment:fixed;}
 
 #about{
 
- background-color:#f4f4f4;	
+ background-color:black;	
 	
 	
 min-height:800px;
@@ -21,8 +21,8 @@ overflow:hidden;margin-top:-20px;
 }
 #about p{color:blue;font-size:15.5px}
 
-#about h1, #resume h1{font-family: Papyrus, fantasy;font-size:6vmin;text-align:center;
-padding-top:90px;
+#about h1, #resume h1{font-family: Papyrus, fantasy;font-size:5vmin;text-align:center;
+padding-top:90px;padding-bottom:5px;
 
 
 }
@@ -44,8 +44,7 @@ padding-bottom:25px;
 margin-top:-20px;
 min-height:980px;
 width:100%;
-background:
-  black;
+background:  #f2f2f2;
 -webkit-border-bottom-left-radius:2px;    
 -webkit-border-bottom-right-radius:2px;
 -webkit-border-top-left-radius:2px;    
@@ -54,14 +53,14 @@ background:
 
 
 
-#portfolio h1,#contact h1{font-family: Papyrus, fantasy;font-size:6vmin;text-align:center;
+#portfolio h1,#contact h1{font-family: Papyrus, fantasy;font-size:5vmin;text-align:center;
 padding-top:115px;color: white;padding-bottom:10px;
 }
 
 
 #resume{
 
-min-height:980px;background:#f4f4f4;margin-top:-15px;
+min-height:980px;background:black;margin-top:-15px;
 
 }
 
