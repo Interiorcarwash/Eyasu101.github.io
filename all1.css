@@ -5,7 +5,7 @@ height:auto;
 min-height:980px;
 }
 
-.aboutbox{-webkit-border-top-left-radius:100px;    box-shadow: 10px 10px 5px #888;width:80%;height:500px;margin-left:10%;background: url('blur.jpg') no-repeat center center fixed;background-size: cover;
+.aboutbox{-webkit-border-top-left-radius:100px;    box-shadow: 10px 10px 10px  #e9e9e9;width:80%;height:500px;margin-left:10%;background: url('blur.jpg') no-repeat center center fixed;background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
 background-size: cover;
@@ -19,13 +19,24 @@ background-attachment:fixed;}
 min-height:800px;
 overflow:hidden;margin-top:-20px;
 }
-#about p{color:blue;font-size:15.5px}
+about p{color:blue;font-size:15.5px}
 
 #about h1, #resume h1{font-family: Papyrus, fantasy;font-size:5vmin;text-align:center;
 padding-top:90px;padding-bottom:5px;color:white;
 
-
 }
+
+p i:hover {
+  -moz-transform: scale(1.5);
+  -webkit-transform: scale(1.5);
+  transform: scale(1.5);
+}
+
+.box{
+width:180px;background-color:#0C0D0D;
+}
+
+
 
 .self img{
 width:60%;
