@@ -102,7 +102,7 @@ border-image: url(border.png) 27  stretch;width:50;
 
  .navbar-default {
   
-    background-color: #f2f2f2;height:77px;border-bottom-color:#d9d9d9;
+    background-color: #f2f2f2;height:70px;border-bottom-color:#d9d9d9;
 }
 .navbar-default .navbar-brand {
     color: #464646;font-family: "Helvetica";font-size:26px;padding-top:25px;padding-left:-10px;margin-left:-5px;   
@@ -114,16 +114,16 @@ border-image: url(border.png) 27  stretch;width:50;
 }
 
 .navbar-default .navbar-nav > li > a {
-    color: grey;font-size:11.4px;padding-top:30px;font-family: 'Julius Sans One', sans-serif;letter-spacing: 0.5px;
+    color: #464646;font-size:11.4px;padding-top:25px;font-family: 'Julius Sans One', sans-serif;letter-spacing: 0.5px;
 	background-color:#f2f2f2;padding-bottom:25px;position:fixed-top;padding-left:-8px;
 }
 
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-    color:#ff751a;padding-bottom:25px;background-color:#f2f2f2;
+    color:#ff751a;padding-bottom:25px;background-color:#d9d9d9;
 }
-.navbar-deader{
-padding-top:20px;
+.navbar-header{
+height:100px;
 }
 
    
