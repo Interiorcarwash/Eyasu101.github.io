@@ -51,7 +51,7 @@ contactbox{width:400px;height:400px;background-color:blue;margin-top:40px}
 .feedback-input:focus{
 	background: #fff;
 	box-shadow: 0;
-	border: 3px solid #3498db;
+	border: 3px solid #ff751a;
 	color: #3498db;
 	outline: none;
   padding: 13px 13px 13px 54px;
@@ -131,7 +131,7 @@ input:focus, textarea:focus {
 
 #button-blue:hover{
 	
-	color: #0493bd;background-color:grey;
+	color:#ff751a;border-color:red;
 }
 	
 
