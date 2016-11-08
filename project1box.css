@@ -1,0 +1,60 @@
+.project1box{
+	margin-left:7.5%;
+	width:300px;
+	margin-top:50px;
+	 display: inline-block;
+	
+}
+.project2box{
+	margin-left:7.5%;
+	width:300px;
+	margin-top:50px;
+	display: inline-block;
+	
+}
+
+.project3box{
+	margin-left:7.5%;
+	width:300px;
+	margin-top:50px;
+	display: inline-block;
+	
+}
+
+
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.zoomimage {
+  position: relative;
+  
+ 
+  margin: 2%;
+  
+  width: 300px;
+}
+.zoomimage img {
+  max-width: 100%;
+  
+  -moz-transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+.zoomimage:hover img {
+  -moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+.modal {
+ overflow-y: auto;
+}
+
+.modal-open {
+ overflow: auto;
+}
+.modal-open { overflow: auto; padding-right: 0px !important; }
