@@ -2,7 +2,7 @@
 #home{
 width:100%;
 height:auto;
-min-height:900px;
+min-height:850px;
 }
 
 .aboutbox{-webkit-border-top-left-radius:100px;    box-shadow: 10px 10px 10px  #e9e9e9;width:80%;height:500px;margin-left:10%;background: url('blur.jpg') no-repeat center center fixed;background-size: cover;
@@ -14,8 +14,6 @@ background-attachment:fixed;}
 #about{
 
  background-color:black;	
-	
-	
 min-height:800px;
 overflow:hidden;margin-top:-20px;
 }
@@ -52,10 +50,10 @@ padding-bottom:25px;
 
 
 #portfolio{
-border-left: 51px black solid;
-border-right: 51px black solid;
+border-left: 50px black solid;
+border-right: 50px black solid;
 margin-top:-20px;
-height:700px;
+min-height:700px;
 width:100%;
 background:  #f2f2f2;
 -webkit-border-bottom-left-radius:2px;    
