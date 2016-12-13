@@ -5,7 +5,7 @@ height:auto;
 min-height:850px;
 }
 
-.aboutbox{    box-shadow: 10px 10px 10px  #ff751a;width:80%;height:500px;margin-left:10%;background: url('blurtwo.jpg'); no-repeat center center fixed;background-size: cover;
+.aboutbox{    box-shadow: 4px 4px 4px  #ff751a;width:80%;height:500px;margin-left:10%;background: url('blurtwo.jpg'); no-repeat center center fixed;background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
 background-size: cover;
@@ -75,7 +75,7 @@ padding-top:115px;color: white;padding-bottom:10px;text-transform:uppercase;
 #resume{
 	
 
-min-height:980px;background: #f2f2f2;margin-top:-15px;
+min-height:1025px;background: #f2f2f2;margin-top:-15px;
 width:100%;
 
 }
