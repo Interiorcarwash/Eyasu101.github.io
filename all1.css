@@ -55,7 +55,7 @@ border-left: 50px black solid;
 border-bottom: 50px black solid;
 border-right: 50px black solid;
 margin-top:-20px;
-min-height:700px;
+min-height:630px;
 width:100%;
 background:  #f2f2f2;
 -webkit-border-bottom-left-radius:2px;    
@@ -103,10 +103,10 @@ border-image: url(border.png) 27  stretch;width:50;
 
  .navbar-default {
   
-    background-color: #f2f2f2;height:70px;border-bottom-color:#d9d9d9;
+    background-color: #f2f2f2;height:60px;border-bottom: 1px solid #d9d9d9;
 }
 .navbar-default .navbar-brand {
-    color: #464646;font-family: "Helvetica";font-size:26px;padding-top:25px;padding-left:-10px;margin-left:-5px;   
+    color: #464646;font-family: "Helvetica";font-size:20px;padding-bottom:5px;padding-left:-10px;margin-left:-5px;   
 }
 
 .navbar-default .navbar-brand:hover,
@@ -114,14 +114,16 @@ border-image: url(border.png) 27  stretch;width:50;
     color:#565656;
 }
 
+
+
 .navbar-default .navbar-nav > li > a {
-    color: #464646;font-size:11.4px;padding-top:25px;font-family: 'Julius Sans One', sans-serif;letter-spacing: 0.5px;
-	background-color:#f2f2f2;padding-bottom:23px;position:fixed-top;padding-left:-8px;
+    color: #464646;font-size:10.2px;padding-top:20px;font-family: 'Julius Sans One', sans-serif;letter-spacing: 0.5px;
+	background-color:#f2f2f2;padding-bottom:18px;position:fixed-top;padding-riight:30px;
 }
 
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-    color:#ff751a;padding-bottom:25px;background-color:#d9d9d9;
+    color:#ff751a;padding-bottom:20px;background-color:#d9d9d9;
 }
 .navbar-header{
 height:100px;

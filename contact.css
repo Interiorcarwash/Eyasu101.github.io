@@ -16,10 +16,11 @@ contactbox{width:400px;height:400px;background-color:blue;margin-top:40px}
 
 #form-div {
 	background-color:black;
-	padding-left:35px;
-	padding-right:35px;
-	padding-top:25px;
-	padding-bottom:55px;
+	padding-left:45px;
+	padding-right:45px;
+	padding-top:15px;
+	margin-bottom:100px;
+	margin-top:-41px;
 	width: 400px;
 	float: left;
 	left: 50%;
@@ -34,7 +35,7 @@ contactbox{width:400px;height:400px;background-color:blue;margin-top:40px}
 	color:#3c3c3c;
 	font-family: Helvetica, Arial, sans-serif;
   font-weight:500;
-	font-size: 17px;
+	font-size: 16px;
 	border-radius: 0;
 	line-height: 18px;
 	background-color: #fbfbfb;
@@ -45,13 +46,13 @@ contactbox{width:400px;height:400px;background-color:blue;margin-top:40px}
 	-moz-box-sizing: border-box;
 	-ms-box-sizing: border-box;
 	box-sizing: border-box;
-  border: 3px solid rgba(0,0,0,0);
+  border: 2.5px solid rgba(0,0,0,0);
 }
 
 .feedback-input:focus{
 	background: #fff;
 	box-shadow: 0;
-	border: 3px solid #ff751a;
+	border: 2.5px solid #ff751a;
 	color: #3498db;
 	outline: none;
   padding: 13px 13px 13px 54px;
