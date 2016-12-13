@@ -131,7 +131,7 @@ input:focus, textarea:focus {
 
 #button-blue:hover{
 	
-	color:#ff751a;border-color:red;
+	color:#ff751a;border-color:#ff751a;
 }
 	
 
