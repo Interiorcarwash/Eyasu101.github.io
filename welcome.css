@@ -1,6 +1,6 @@
 
 #inTurnFadingTextG{
-	width:500px;
+	width:800px;
 	margin-left:auto;
 	margin-right:auto;
 	padding:15px;
@@ -99,21 +99,22 @@
 
 
 
+
 @keyframes bounce_inTurnFadingTextG{
 	0%{
 		text-align:center;
 	
-		color:#ff751a;
+		color:black;
 	}
 
 	100%{
-		color:rgb(255,255,255);
+		color:gray;
 	}
 }
 
 @-o-keyframes bounce_inTurnFadingTextG{
 	0%{
-		color:rgb(0,0,0);
+		color:black;
 	}
 
 	100%{
@@ -123,7 +124,7 @@
 
 @-ms-keyframes bounce_inTurnFadingTextG{
 	0%{
-		color:rgb(0,0,0);
+		color:black;
 	}
 
 	100%{
@@ -133,7 +134,7 @@
 
 @-webkit-keyframes bounce_inTurnFadingTextG{
 	0%{
-		color:rgb(0,0,0);
+		color:black;
 	}
 
 	100%{
@@ -143,7 +144,7 @@
 
 @-moz-keyframes bounce_inTurnFadingTextG{
 	0%{
-		color:rgb(0,0,0);
+		color:black;
 	}
 
 	100%{
