@@ -104,11 +104,11 @@
 	0%{
 		text-align:center;
 	
-		color:rgb(45, 43, 43);
+		color:rgb(5, 5, 5);
 	}
 
 	100%{
-		color:rgb(94, 89, 89);
+		color:rgb(70, 70, 70);
 	}
 }
 
